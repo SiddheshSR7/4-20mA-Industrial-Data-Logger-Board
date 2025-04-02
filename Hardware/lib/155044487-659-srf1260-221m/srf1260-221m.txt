@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-13062022-066991";"";
+"REFERENCE";"SRF1260-221M";"";
+"TraceParts.PartTitle";"Inductor SMD shielded 220uH";"";
+"TraceParts.InstanceId";"90-13062022-0669912N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"Inductor SMD shielded 220uH";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"BOURNS";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BOURNS:90-13062022-066991";"";
